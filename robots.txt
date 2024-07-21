@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oadrayota.github.io/sitemap
+Sitemap: https://oadrayota.github.io/app/sitemap
+Sitemap: https://oadrayota.github.io/assets/sitemap
+Sitemap: https://oadrayota.github.io/css/sitemap
+Sitemap: https://oadrayota.github.io/includes/sitemap
+Sitemap: https://oadrayota.github.io/item/sitemap
+Sitemap: https://oadrayota.github.io/src/sitemap
